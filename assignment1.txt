@@ -1,4 +1,4 @@
-1-2 the answers to this question
-
+1-2 When I made a typo trying to generate an error I had to misspell "print" i wrote "rint" and it gave me a syntax error and the code would not run. When I made a typo to the "hello world" part of the code it didnt generate an error it just printed the "ello world" typo. This makes sense to me because the print part of the code is saying what to write out when I run the code, so if I make an error on the part that its writing out I can still run it. But, it just won't be grammatticaly correct. Now on the other hand, if I make a typo on the "print" part of the code it can not run because thats the main function of the code and Visual Studio can't process what i'm trying to do.
 
 1-3 the answers to this question
+
